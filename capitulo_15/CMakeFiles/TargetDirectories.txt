@@ -1,0 +1,8 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/cleanaup_connected_components.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/background_substractor_clase.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/codebook_algorithm.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/on_off_diagonal_elements.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/background_model.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_15/CMakeFiles/rgb_values.dir

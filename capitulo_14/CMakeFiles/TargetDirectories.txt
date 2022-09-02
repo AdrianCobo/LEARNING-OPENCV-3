@@ -1,0 +1,6 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_14/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_14/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_14/CMakeFiles/shape_contect_distance_extractor.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_14/CMakeFiles/lebeled_conected_components.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_14/CMakeFiles/drawing_contours.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_14/CMakeFiles/contours_using_trackbar.dir

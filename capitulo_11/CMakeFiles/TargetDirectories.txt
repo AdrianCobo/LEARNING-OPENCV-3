@@ -1,0 +1,6 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_11/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_11/CMakeFiles/excercises.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_11/CMakeFiles/log_polar_transformation.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_11/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_11/CMakeFiles/perspective_transformation.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_11/CMakeFiles/affine_transformation.dir

@@ -1,0 +1,36 @@
+(function(g){var window=this;'use strict';var k3=function(a){g.U.call(this,{F:"div",L:"ytp-inline-preview-ui"});this.initialized=!1;this.player=a;this.N(a,"onStateChange",this.BJ);this.N(a,"videodatachange",this.Jm);this.N(a,"onInlinePreviewModeChange",this.mX);this.le=new g.nn(this.Vr,null,this);g.J(this,this.le)},l3=function(a){g.DI.call(this,a);
+this.j=new k3(this.player);g.J(this,this.j);this.j.hide();g.nI(this.player,this.j.element,4);a.isInline()&&(this.load(),g.N(a.getRootNode(),"ytp-inline-preview-mode",!0),this.player.R().K("web_rounded_containers")&&g.N(a.getRootNode(),"ytp-rounded-inline-preview",!0),this.player.R().K("web_inline_player_disable_scrubbing")&&g.N(a.getRootNode(),"ytp-inline-preview-mode-no-scrubbing",!0))};
+g.w(k3,g.U);g.k=k3.prototype;
+g.k.cH=function(){this.tooltip=new g.RM(this.player,this);g.J(this,this.tooltip);g.nI(this.player,this.tooltip.element,4);this.tooltip.scale=.6;this.zc=new g.yJ(this.player);g.J(this,this.zc);var a=["ytp-inline-preview-scrim"];this.player.R().K("web_inline_player_expand_to_watch")||a.push("ytp-inline-preview-scrim-clear");this.Hh=new g.U({F:"div",Ba:a});g.J(this,this.Hh);this.Hh.ra(this.element);this.N(this.Hh.element,"click",this.DC);this.player.R().K("web_inline_player_expand_to_watch")&&(a=new g.AZ(this.player,
+this),g.J(this,a),a.ra(this.Hh.element));this.Kh=new g.DM(this.player,this);g.J(this,this.Kh);this.Kh.ra(this.Hh.element);this.controls=new g.U({F:"div",L:"ytp-inline-preview-controls"});g.J(this,this.controls);this.controls.ra(this.element);a=new g.jL(this.player,this);g.J(this,a);a.ra(this.controls.element);a=new g.BM(this.player,this);g.J(this,a);a.ra(this.controls.element);this.progressBar=new g.zL(this.player,this);g.J(this,this.progressBar);g.nI(this.player,this.progressBar.element,4);this.N(this.player,
+"appresize",this.tb);this.N(this.player,"fullscreentoggled",this.tb);this.tb()};
+g.k.show=function(){g.on(this.le);this.initialized||(this.cH(),this.initialized=!0);0!==this.player.getPlayerState()&&g.U.prototype.show.call(this);this.progressBar.show()};
+g.k.hide=function(){this.le.stop();g.U.prototype.hide.call(this);this.player.isInline()||this.initialized&&this.progressBar.hide()};
+g.k.Y=function(){g.U.prototype.Y.call(this)};
+g.k.DC=function(a){a.target!==this.Hh.element||this.player.R().K("web_inline_player_expand_to_watch")||this.player.Ia("onExpandInlinePreview",a)};
+g.k.mX=function(){g.N(this.player.getRootNode(),"ytp-inline-preview-mode",this.player.isInline())};
+g.k.Ld=function(){this.progressBar.Rb();this.Kh.Rb()};
+g.k.Vr=function(){this.Ld();g.on(this.le)};
+g.k.tb=function(){g.PL(this.progressBar,0,this.player.Wa().getPlayerSize().width,!1);g.CL(this.progressBar)};
+g.k.BJ=function(a){this.player.isInline()&&(0===a?this.hide():this.show())};
+g.k.Jm=function(a,b){this.player.isInline()&&g.N(this.player.getRootNode(),"ytp-show-inline-preview-audio-controls",b.hG)};
+g.k.Zb=function(){return this.tooltip};
+g.k.Ef=function(){return!1};
+g.k.gg=function(){return!1};
+g.k.yy=function(){return!1};
+g.k.Fj=function(){return!1};
+g.k.Bz=function(){};
+g.k.Vo=function(){};
+g.k.ou=function(){};
+g.k.rp=function(){return null};
+g.k.Vx=function(){return null};
+g.k.Ej=function(){return new g.Bk(0,0,0,0)};
+g.k.handleGlobalKeyDown=function(){return!1};
+g.k.handleGlobalKeyUp=function(){return!1};
+g.k.rs=function(a,b,c,d,e){var f=d=0,h=0,l=g.Pk(a);if(b){c=g.vn(b,"ytp-miniplayer-expand-watch-page-button");var m=g.vn(b,"ytp-mute-button"),n=g.vn(b,"ytp-subtitles-button"),p=g.Nk(b,this.element);b=g.Pk(b);d=p.y+40;c&&(h=8);if(n||m)h=p.x-l.width+b.width}else h=c-l.width/2,f=35;b=this.player.Wa().getPlayerSize().width;h=g.uf(h,0,b-l.width);d?(a.style.top=d+(e||0)+"px",a.style.bottom=""):(a.style.top="",a.style.bottom=f+"px");a.style.left=h+"px"};
+g.k.showControls=function(){};
+g.k.Gm=function(){};
+g.k.Tl=function(){return!1};
+g.k.Cz=function(){};g.w(l3,g.DI);l3.prototype.jj=function(){return!1};
+l3.prototype.load=function(){this.player.hideControls();this.j.show()};
+l3.prototype.unload=function(){this.player.showControls();this.j.hide()};g.CI("inline_preview",l3);})(_yt_player);

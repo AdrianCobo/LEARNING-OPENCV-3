@@ -1,0 +1,11 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/grabar_video.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/pixel_values.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/color_filter_image.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/redimension_mitad_image.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/trackbar_video.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/simple_video.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/camera_usb.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/image_filter.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/CMakeFiles/simple_image.dir

@@ -1,0 +1,6 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_10/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_10/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_10/CMakeFiles/threshold_vs_adapthreshold.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_10/CMakeFiles/threshold_v2.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_10/CMakeFiles/filters.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_10/CMakeFiles/threshold.dir

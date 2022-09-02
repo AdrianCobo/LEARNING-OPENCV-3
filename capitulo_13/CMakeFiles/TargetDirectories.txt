@@ -1,0 +1,6 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_13/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_13/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_13/CMakeFiles/excercise.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_13/CMakeFiles/template_matching.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_13/CMakeFiles/signatures_histograms_EMD.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_13/CMakeFiles/hsv_histogram.dir

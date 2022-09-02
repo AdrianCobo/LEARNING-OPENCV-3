@@ -1,0 +1,6 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_12/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_12/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_12/CMakeFiles/image_segmentation.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_12/CMakeFiles/background_removal.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_12/CMakeFiles/find_circles.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_12/CMakeFiles/covolutions.dir

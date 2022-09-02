@@ -1,0 +1,4 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_7/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_7/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_7/CMakeFiles/random_number_generator.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_7/CMakeFiles/excercises.dir

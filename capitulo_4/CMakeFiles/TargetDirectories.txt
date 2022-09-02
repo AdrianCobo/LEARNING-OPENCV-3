@@ -1,0 +1,7 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/better_sparse_matrix_print.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/print_nonzer_sparsearray.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/sum_2matriz_using_narrayop.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/sum_matrix_by_planes.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_4/CMakeFiles/excercises.dir

@@ -1,0 +1,9 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/excercise_4.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/excercise_5.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/video_cube_draw.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/excercises.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/switch_with_trackbar.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/draw_rectangle_using_mouse.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_9/CMakeFiles/open_image.dir

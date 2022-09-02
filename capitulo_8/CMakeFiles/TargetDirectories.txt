@@ -1,0 +1,8 @@
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/read_yaml_file.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/create_yaml_file.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/identify_video_codec.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/excercise_3.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/excercise_2.dir
+/home/adrian/Escritorio/open_cv/src/course_programs/capitulo_8/CMakeFiles/excercise_1.dir
